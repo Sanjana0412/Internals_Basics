@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "payflow-processing-seconds-predictor",
+    "alias_name": "live",
+    "champion_version": 2,
+    "challenger_version": 2,
+    "action": "promoted"
+}

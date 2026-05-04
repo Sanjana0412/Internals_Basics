@@ -1,0 +1,41 @@
+# 🔹 Virtual Environment (VERY IMPORTANT)
+venv/
+env/
+ENV/
+
+# 🔹 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🔹 Environment variables
+.env
+
+# 🔹 MLflow artifacts
+mlruns/
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# 🔹 Build / packaging
+*.egg-info/
+dist/
+build/
+
+# 🔹 Docker (optional overrides)
+*.tar
+
+# 🔹 VS Code settings (optional)
+.vscode/
+
+# 🔹 Temporary files
+*.tmp
+*.swp

@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "payflow-processing-seconds-predictor",
+    "version": 1,
+    "run_id": "570e98c13e1e4a10afb1c7d1a344c1bd",
+    "source_metric": "mae",
+    "source_metric_value": 0.3897
+}

@@ -1,0 +1,1 @@
+{"image_name":"payflow-predictor","image_tag":"v1","base_image":"python:3.12-slim","test_input":{"txn_amount":61966.9,"merchant_risk_score":0.4,"is_international":0,"gateway_load":0.7},"prediction":1.430296}
